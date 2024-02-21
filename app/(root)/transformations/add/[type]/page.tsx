@@ -1,6 +1,6 @@
 import Header from '@/components/shared/Header'
 import TransformationForm from '@/components/shared/TransformationForm'
-import { transformationTypes } from '@/constants/index.ts'
+import { transformationTypes } from '@/constants/index'
 import React from 'react'
 
 const AddTransformationTypePage = ({params: {type}}: SearchParamProps) => {
