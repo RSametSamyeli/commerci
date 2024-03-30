@@ -22,7 +22,7 @@ const MobileNav = () => {
         />
       </Link>
 
-      <nav className="flex gap-3">
+      <nav className="flex gap-2">
         <SignedIn>
           <UserButton afterSignOutUrl="/" />
 
