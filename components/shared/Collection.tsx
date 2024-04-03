@@ -49,7 +49,6 @@ export const Collection = ({
   return (
     <>
       <div className="collection-heading">
-        <h2 className="h2-bold text-yellow-400">Recent Edits</h2>
         {hasSearch && <Search />}
       </div>
 
