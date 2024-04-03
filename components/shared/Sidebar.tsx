@@ -13,9 +13,9 @@ const Sidebar = () => {
   return (
     <aside className="sidebar">
       <div className="flex size-full flex-col gap-4">
-        <Link href="/" className="sidebar-logo">
-          {/* <Image src="/assets/images/logo-text.svg" alt="logo" width={180} height={28} /> */}
-        </Link>
+        {/* <Link href="/" className="sidebar-logo">
+          <Image src="/assets/images/logo-text.svg" alt="logo" width={180} height={28} />
+        </Link> */}
 
         <nav className="sidebar-nav">
           <SignedIn>
@@ -25,7 +25,7 @@ const Sidebar = () => {
 
                 return (
                   <li key={link.route} className={`sidebar-nav_element group ${
-                    isActive ? 'bg-purple-gradient text-white' : 'text-gray-700'
+                    isActive ? 'bg-gradient-to-r from-[#151718] via-[#202020] to-[#232627] shadow-sm transition-all duration-200 text-white' : 'text-gray-700'
                   }`}>
                     <Link className="sidebar-link" href={link.route}>
                       <Image 
