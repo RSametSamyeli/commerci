@@ -220,7 +220,7 @@
 
   /* Home Page */
   .home {
-    @apply sm:flex-center hidden flex-col gap-4 rounded-[20px] bg-cover bg-no-repeat p-10 shadow-inner;
+    @apply sm:flex-center hidden flex-col gap-4 rounded-[20px] bg-[#151718] bg-no-repeat p-10 shadow-inner;
   }
 
   .home-heading {

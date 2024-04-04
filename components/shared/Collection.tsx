@@ -99,7 +99,7 @@ export const Card = ({ image }: { image: IImage }) => {
     <li>
       <Link href={`/transformations/${image._id}`} className="collection-card">
         <CardContainer className="inter-var">
-          <CardBody className="relative group/card hover:shadow-2xl hover:shadow-emerald-500/[0.1] bg-transparent border-white/[0.2] w-auto h-auto rounded-xl p-6 border  ">
+          <CardBody className="relative group/card hover:shadow-2xl hover:shadow-emerald-500/[0.1] bg-[#151718] border-white/[0.2] w-auto h-auto rounded-xl p-6 border  ">
             <CardItem
               translateZ="50"
               className="text-xl font-bold text-white"

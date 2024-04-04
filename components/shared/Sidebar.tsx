@@ -13,9 +13,9 @@ const Sidebar = () => {
   return (
     <aside className="sidebar">
       <div className="flex size-full flex-col gap-4">
-        {/* <Link href="/" className="sidebar-logo">
-          <Image src="/assets/images/logo-text.svg" alt="logo" width={180} height={28} />
-        </Link> */}
+      <h1 className="relative z-10 text-lg md:text-4xl bg-clip-text text-center text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600 font-sans font-bold">
+        commerci
+        </h1>
 
         <nav className="sidebar-nav">
           <SignedIn>
