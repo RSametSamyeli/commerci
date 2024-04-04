@@ -268,7 +268,7 @@
   }
 
   .collection-list {
-    @apply grid grid-cols-1 gap-6 sm:grid-cols-2 xl:grid-cols-4;
+    @apply grid grid-cols-1 gap-6 sm:grid-cols-2 xl:grid-cols-2;
   }
 
   .collection-empty {
@@ -280,7 +280,7 @@
   }
 
   .collection-card {
-    @apply flex flex-1 cursor-pointer flex-col gap-5 rounded-[16px] border border-[#6C7275] p-4 transition-all;
+    @apply flex flex-1 cursor-pointer flex-col rounded-[16px] transition-all;
   }
 
   /* MediaUploader Component */
