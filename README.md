@@ -1,4 +1,4 @@
-![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci1.png?raw=true){: width="500" height="300" }
+![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci1.png?raw=true)
 
 ## Commerci
 
@@ -23,9 +23,9 @@ Commerci is an AI-powered image generator that allows you to create beautiful im
 
 ## Images
 
-![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci2.png?raw=true){: width="500" height="300" }
-![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci3.png?raw=true){: width="500" height="300" }
-![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci4.png?raw=true){: width="500" height="300" }
+![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci2.png?raw=true)
+![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci3.png?raw=true)
+![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci4.png?raw=true)
 
 
 First, run the development server:
