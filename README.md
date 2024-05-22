@@ -1,6 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci1.png?raw=true){: width="500" height="300" }
 
-## Getting Started
+## Commerci
+
+Commerci is an AI-powered image generator that allows you to create beautiful images in seconds.
+
+## Features
+
+- **Image Restore**: You can restore the image to the original state.
+- **Generative Fill**: You can fill the image with a generative pattern.
+- **Object Remove**: You can remove objects from the image.
+- **Object Re-Color**: You can change the color of objects in the image.
+- **Background Remove**: You can remove the background from the image.
+
+## Tech Stack
+
+- **Next.js 14**: React framework for building web applications. Used app routing, data fetching, and image optimization.
+- **Clerk**: User authentication and authorization.
+- **Mongo-DB**: Database for storing user data.
+- **Typescript**: Typed JavaScript.
+- **Tailwind CSS**: Utility-first CSS framework.
+- **Shadcn UI**: UI components library.
+
+## Images
+
+![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci2.png?raw=true){: width="500" height="300" }
+![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci3.png?raw=true){: width="500" height="300" }
+![Commerci](https://github.com/RSametSamyeli/commerci/blob/commerci/images/commerci4.png?raw=true){: width="500" height="300" }
+
 
 First, run the development server:
 
