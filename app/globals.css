@@ -76,7 +76,7 @@
 }
 
 .auth {
-  @apply flex-center min-h-screen w-full bg-yellow-400
+  @apply flex-center min-h-screen w-full bg-purple-400
 }
 
 .root {
@@ -199,7 +199,7 @@
   }
 
   .select-item {
-    @apply py-3 cursor-pointer hover:bg-yellow-400;
+    @apply py-3 cursor-pointer hover:bg-purple-400;
   }
 
   .IconButton {
@@ -237,7 +237,7 @@
   }
 
   .credits-btn {
-    @apply w-full rounded-full bg-yellow-400 bg-cover text-purple-500 hover:text-purple-500;
+    @apply w-full rounded-full bg-purple-400 bg-cover text-purple-500 hover:text-purple-500;
   }
 
   /* Profile Page */
@@ -259,7 +259,7 @@
   }
 
   .transformation-original_image {
-    @apply h-fit min-h-72 w-full rounded-[10px] border border-dashed bg-yellow-400/20 object-cover p-2;
+    @apply h-fit min-h-72 w-full rounded-[10px] border border-dashed bg-purple-400/20 object-cover p-2;
   }
 
   /* Collection Component */
@@ -285,11 +285,11 @@
 
   /* MediaUploader Component */
   .media-uploader_cldImage {
-    @apply h-fit min-h-72 w-full rounded-[10px] border border-dashed bg-yellow-400/20 object-cover p-2;
+    @apply h-fit min-h-72 w-full rounded-[10px] border border-dashed bg-purple-400/20 object-cover p-2;
   }
 
   .media-uploader_cta {
-    @apply flex-center flex h-72 cursor-pointer flex-col gap-5 rounded-[16px] border border-dashed bg-yellow-400/20 shadow-inner;
+    @apply flex-center flex h-72 cursor-pointer flex-col gap-5 rounded-[16px] border border-dashed bg-purple-400/20 shadow-inner;
   }
 
   .media-uploader_cta-image {
@@ -350,7 +350,7 @@
   }
 
   .transformed-image {
-    @apply h-fit min-h-72 w-full rounded-[10px] border border-dashed bg-yellow-400/20 object-cover p-2;
+    @apply h-fit min-h-72 w-full rounded-[10px] border border-dashed bg-purple-400/20 object-cover p-2;
   }
 
   .transforming-loader {
@@ -358,7 +358,7 @@
   }
 
   .transformed-placeholder {
-    @apply flex-center p-14-medium h-full min-h-72 flex-col gap-5 rounded-[16px] border border-dashed bg-yellow-400/20 shadow-inner;
+    @apply flex-center p-14-medium h-full min-h-72 flex-col gap-5 rounded-[16px] border border-dashed bg-purple-400/20 shadow-inner;
   }
 }
 
